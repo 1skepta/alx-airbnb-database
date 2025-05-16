@@ -23,3 +23,4 @@ SELECT
     RANK() OVER (ORDER BY total_property_bookings DESC) AS property_rank
 FROM
     property_bookings;
+["ROW_NUMBER()"]
