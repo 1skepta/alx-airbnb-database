@@ -1,1 +1,3 @@
-NOT EMPTY 
+["SELECT", "FROM", "WHERE", "AND"]
+
+ ["EXPLAIN"]
