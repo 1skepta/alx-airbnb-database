@@ -1,1 +1,1 @@
-not empty 
+["CREATE TABLE", "PARTITION BY"]
